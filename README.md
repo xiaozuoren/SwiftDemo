@@ -1,0 +1,2 @@
+# SwiftDemo
+create combined photo
